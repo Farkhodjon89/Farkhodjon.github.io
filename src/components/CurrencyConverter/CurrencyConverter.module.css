@@ -1,0 +1,10 @@
+.currencyWrapper {
+    padding: 15px;
+}
+input, select{
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    height: 30px;
+    margin-right: 10px;
+}
